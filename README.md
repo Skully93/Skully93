@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skully93
 - 👀 I’m interested in becoming a cloud architect.
-- 🌱 I’m currently learning Azure administration and architecture
-- 💞️ I’m looking to collaborate on learning anything to do with Azure, then AWS
+- 🌱 I’m currently learning cloud administration and architecture.
+- 💞️ I’m looking to collaborate on learning anything to do with AWS/Azure
 - 📫 How to reach me ryan.pierce93@gmail.com
 
 <!---
